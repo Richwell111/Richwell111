@@ -16,6 +16,15 @@
 
 ---
 
+## 📄 Resume
+<p align="center">
+  <a href="https://github.com/Richwell111/Richwell111/blob/main/assets/Richwell_Antwi_CV.pdf" target="_blank">
+    📥 Download My CV (Richwell_Antwi_CV.pdf)
+  </a>
+</p>
+
+---
+
 ## 🚀 Mission & Focus
 - **Why I started in SE & DS:** Passionate about building digital solutions that empower businesses and individuals. Inspired by the impact of data-driven decision-making.  
 - **Vision:** To become a world-class software engineer and data scientist who designs scalable, AI-powered systems that solve real problems.  
