@@ -1,45 +1,123 @@
-<h1>Hi, I'm Richwell Antwi! <br/>
-<a href="https://github.com/Richwell111">Full-Stack Developer</a>,
-<a href="https://www.linkedin.com/in/richwell-antwi/">Tech Enthusiast</a>,
-<a href="https://loopcraft.carrd.co/">Founder of LoopCraft</a></h1>
+<!-- Profile README – Professional, ATS-friendly, and recruiter-ready -->
+<!-- Repo must be named: github.com/Richwell111/Richwell111 -->
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h1 align="center">👋 Hi, I'm Richwell Antwi</h1>
+<p align="center">
+  <strong>Software Engineer · Full-Stack Developer · Data Scientist (in progress)</strong><br/>
+  Accra, Ghana · <a href="mailto:richwellantwi@gmail.com">richwellantwi@gmail.com</a> · 
+  <a href="https://loopcraft.carrd.co/">Portfolio</a> · 
+  <a href="https://www.linkedin.com/in/richwell-antwi/">LinkedIn</a> · 
+  <a href="https://twitter.com/">Twitter/X</a>
+</p>
 
-- <b>🎬 React Movies Site</b>  
-  - [Movie Browser Built With React](https://app.netlify.com/projects/react-movies-sites/)
-- <b>💬 Social Media UI</b>  
-  - [HTML/CSS Responsive Clone](https://htmlcsssocialmedia.netlify.app/)
-- <b>🛍️ Comfy Store E-Commerce Clone</b>  
-  - [React + Commerce App](https://rich-comfy.netlify.app/)
-- <b>📄 AI Resume Analyzer</b>  
-  - [Built with Puter.js | Live Demo](https://loopcraft-ai-resume-analyzer-9yhrd.puter.site/) | [GitHub](https://github.com/Richwell111/ai-resume-analyzer)
-- <b>🔒 MRN Auth System</b>  
-  - MongoDB, React, Node.js based authentication system *(In Progress)*
+<p align="center">
+  <em>"I build clean, scalable software solutions and am now expanding into data science to harness AI for real-world impact."</em>
+</p>
 
-<h2>📺 Tech Resources I Love</h2>
+---
 
-- [JavaScript in 100 Seconds (Fireship)](https://www.youtube.com/watch?v=DHjqpvDnNGE)
-- [Node.js Crash Course](https://www.youtube.com/watch?v=Oe421EPjeBE)
-- [React Explained in 15 Minutes](https://www.youtube.com/watch?v=RVFAyFWO4go)
+## 🚀 Mission & Focus
+- **Why I started in SE & DS:** Passionate about building digital solutions that empower businesses and individuals. Inspired by the impact of data-driven decision-making.  
+- **Vision:** To become a world-class software engineer and data scientist who designs scalable, AI-powered systems that solve real problems.  
+- **What I want to work on:** ML-powered web apps, LLM applications, scalable e-commerce platforms, and data products for social impact.  
+- **Current goal (90 days):** Finish hands-on data science projects (Pandas, Scikit-learn, PyTorch) and deploy my first ML-powered SaaS demo.  
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-[<img align="left" alt="Richwell | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Richwell | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Richwell | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Richwell | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## 🧩 Specialties & Interests
+- **Domains:** FinTech · EdTech · HealthTech · NLP · Data Analytics · AI Products  
+- **Strengths:** Full-stack systems, API design, model integration, data storytelling, performance optimization  
+- **I’m exploring:** LLMs · Retrieval-Augmented Generation (RAG) · GenAI prompting · Data pipelines · Streaming UIs  
 
-[twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/
-[instagram]: https://www.instagram.com/
-[linkedin]: https://www.linkedin.com/in/richwell-antwi/
+---
 
-<!-- Optional: Add your GitHub Stats -->
-<br/><br/><br/>
+## 🛠 Tech Stack
+<div align="center">
 
-![Richwell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Richwell111&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Richwell111&layout=compact&theme=tokyonight)
+**Languages:**  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white"/>
 
-<!--
-**Richwell111/Richwell111** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
--->
+**Frontend:**  
+<img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB"/> 
+<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white"/>
+
+**Backend & Data:**  
+<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white"/> 
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white"/>
+
+**ML / DS (learning):**  
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white"/> 
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
+
+**DevOps & Cloud:**  
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/> 
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white"/> 
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/> 
+
+</div>
+
+---
+
+## 💡 Signature Projects
+
+### 1) 🎬 React Movies Site — Interactive Movie Browser  
+- **Stack:** React, REST APIs, Netlify  
+- **What it does:** Browse movies with search and filtering features.  
+- **Links:** 🚀 <a href="https://app.netlify.com/projects/react-movies-sites/">Live</a>  
+
+### 2) 💬 Social Media UI — Responsive Clone  
+- **Stack:** HTML, CSS, Flexbox, Grid  
+- **What it does:** Social media platform front-end clone.  
+- **Links:** 🚀 <a href="https://htmlcsssocialmedia.netlify.app/">Live</a>  
+
+### 3) 🛍️ Comfy Store E-Commerce Clone — React E-Commerce  
+- **Stack:** React, Commerce API  
+- **What it does:** E-commerce platform with product browsing.  
+- **Links:** 🚀 <a href="https://rich-comfy.netlify.app/">Live</a>  
+
+### 4) 📄 AI Resume Analyzer — AI-powered career tool  
+- **Stack:** Puter.js, Web UI  
+- **What it does:** Analyzes resumes using AI.  
+- **Links:** 🚀 <a href="https://loopcraft-ai-resume-analyzer-9yhrd.puter.site/">Live</a> · 🔗 <a href="https://github.com/Richwell111/ai-resume-analyzer">Repo</a>  
+
+### 5) 🔒 MRN Auth System *(In Progress)*  
+- **Stack:** MongoDB, React, Node.js  
+- **What it does:** Full authentication system with JWT & OTP.  
+
+---
+
+## 📊 GitHub at a Glance
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Richwell111&show_icons=true&hide_title=true&theme=tokyonight" alt="GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Richwell111&theme=tokyonight" alt="GitHub streak" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richwell111&layout=compact&theme=tokyonight" alt="Top languages" />
+</div>
+
+---
+
+## 🎯 Currently Building / Learning
+- Data Science foundations: Pandas, NumPy, Scikit-learn  
+- First ML project: predicting customer churn with Python  
+- Building scalable Next.js + Node.js applications  
+
+---
+
+## 📬 Let’s Connect
+- 📧 Email: <a href="mailto:richwellantwi40@gmail.com">richwellantwi@gmail.com</a>  
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/richwell-antwi/">richwell-antwi</a>  
+- 🌐 Portfolio: <a href="https://loopcraft.carrd.co/">loopcraft.carrd.co</a>  
+
+---
+
+<p align="center">
+  Thanks for stopping by! ⭐ Star a repo if you found something useful.
+</p>
