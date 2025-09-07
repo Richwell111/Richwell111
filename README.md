@@ -99,7 +99,16 @@
 
 ### 5) 🔒 MRN Auth System *(In Progress)*  
 - **Stack:** MongoDB, React, Node.js  
-- **What it does:** Full authentication system with JWT & OTP.  
+- **What it does:** Full authentication system with JWT & OTP.
+  
+### 6) 📊 Student Performance Data — Excel Analysis Project  
+- **Stack:** Microsoft Excel (Formulas, Conditional Logic)  
+- **What it does:**  
+  - Created dataset of 20 students with subjects (English, Math, Physics, Chemistry).  
+  - Applied formulas using `IF`, `AND`, and `OR` to evaluate performance.  
+  - Automated results into **"Admitted"** or **"Try Again"** outcomes.  
+- **Links:** 🔗 <a href="https://github.com/Richwell111/student-performance-data">Repo</a>
+
 
 ---
 
