@@ -4,7 +4,7 @@
 <h1 align="center">👋 Hi, I'm Richwell Antwi</h1>
 <p align="center">
   <strong>Software Engineer · Full-Stack Developer · Data Scientist (in progress)</strong><br/>
-  Accra, Ghana · <a href="mailto:richwellantwi@gmail.com">richwellantwi@gmail.com</a> · 
+  Accra, Ghana · <a href="mailto:richwellantwi40@gmail.com">richwellantwi@gmail.com</a> · 
   <a href="https://loopcraft.carrd.co/">Portfolio</a> · 
   <a href="https://www.linkedin.com/in/richwell-antwi/">LinkedIn</a> · 
   <a href="https://twitter.com/">Twitter/X</a>
