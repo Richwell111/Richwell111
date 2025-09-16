@@ -18,7 +18,7 @@
 
 ## 📄 Resume
 <p align="center">
-  <a href="https://github.com/Richwell111/Richwell111/blob/main/assets/Richwell_Antwi_CV.pdf" target="_blank">
+  <a href="https://github.com/Richwell111/Richwell111/blob/main/assets/Richwell.pdf" target="_blank">
     📥 Download My CV (Richwell_Antwi_CV.pdf)
   </a>
 </p>
